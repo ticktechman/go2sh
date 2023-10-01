@@ -1,8 +1,7 @@
 # go2iterm2
 
-An another optional to Go2Shell. Support iterm2 only. It is written in **javascript**. Only **22** lines of effective code.
-
-Easy to modify and understand. Enjoy it.
+An another option besides Go2Shell. Only for iTerm2. It is written in **javascript**. Only **22** lines of effective code.
+More easier to understand and modify. Enjoy it.
 
 # install
 
